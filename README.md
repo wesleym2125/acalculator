@@ -1,6 +1,6 @@
 # acalculator
 
-A calculator app
+ACalculator is a calculator app for Android. It uses Linux "bc" command to calculate.
 
 ## Getting Started
 
